@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537843406 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\prim\prim\main.cpp
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+
+1537896997 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\quinta atividade\kruskal_prim_dijkstra\minimum spanning tree\prim\main.cpp
+	<iostream>
+	<stdio.h>
+	<limits.h>
+
