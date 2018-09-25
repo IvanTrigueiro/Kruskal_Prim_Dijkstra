@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537843468 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\dijkstra\dijkstra\main.cpp
+	<stdio.h>
+	<limits.h>
+
+1537898252 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\quinta atividade\kruskal_prim_dijkstra\shortest path\dijkstra\main.cpp
+	<stdio.h>
+	<iostream>
+	<limits.h>
+
